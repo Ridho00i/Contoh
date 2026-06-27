@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <!-- Dark outline for contrast -->
+  <g stroke="#000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.4">
+    <path d="M6 14v-2a2 2 0 0 1 4 0v1"/>
+    <path d="M10 13v-3a2 2 0 0 1 4 0v2"/>
+    <path d="M14 12a2 2 0 0 1 4 0v3"/>
+    <path d="M18 15v1a7 7 0 0 1-7 7h-1a7 7 0 0 1-7-7v-3a2 2 0 0 1 4 0"/>
+  </g>
+  <!-- Gold main layer -->
+  <g stroke="#d4af37" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 14v-2a2 2 0 0 1 4 0v1"/>
+    <path d="M10 13v-3a2 2 0 0 1 4 0v2"/>
+    <path d="M14 12a2 2 0 0 1 4 0v3"/>
+    <path d="M18 15v1a7 7 0 0 1-7 7h-1a7 7 0 0 1-7-7v-3a2 2 0 0 1 4 0"/>
+  </g>
+</svg>
